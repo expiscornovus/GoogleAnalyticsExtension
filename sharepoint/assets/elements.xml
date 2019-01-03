@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="GoogleAnalytics"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="222f9517-16d5-4c65-b3c7-5ca34184ce75"
+        ClientSideComponentProperties="{&quot;GoogleAnalyticskey&quot;:&quot;test&quot;}">
+    </CustomAction>
+</Elements>
